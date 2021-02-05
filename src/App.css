@@ -1,0 +1,7 @@
+.app {
+  background-color: rgb(197, 207, 207);
+}
+
+.app__body {
+  display: flex;
+}
