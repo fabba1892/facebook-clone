@@ -72,3 +72,4 @@ const Header = () => {
 
 export default Header;
 
+// created searchbar and icons part of header and install material-ui 
