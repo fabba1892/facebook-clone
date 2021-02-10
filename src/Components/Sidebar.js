@@ -26,3 +26,4 @@ const Sidebar = () => {
 }
 
 export default Sidebar;
+// created sidebar and siidebar row

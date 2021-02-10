@@ -15,3 +15,4 @@ const SidebarRow = ({ src, Icon, title }) => {
 }
 
 export default SidebarRow;
+// created sidebar and siidebar row
