@@ -26,3 +26,4 @@ const StoryReel = () => {
 }
 
 export default StoryReel;
+// storyreel with images hover and styling
