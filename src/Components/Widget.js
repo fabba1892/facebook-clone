@@ -19,3 +19,4 @@ const Widget = () => {
 }
 
 export default Widget; 
+//widget and feed imports also post and info

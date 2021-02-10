@@ -42,3 +42,4 @@ const Post = ({ profilePic, imgName, username, timestamp, message }) => {
 }
 
 export default Post;
+//widget and feed imports also post and info
