@@ -59,3 +59,4 @@ const MessageSender = () => {
 }
 
 export default MessageSender;
+// adding video/photo/emoticon icons styling hover and sizes
